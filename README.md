@@ -1,6 +1,6 @@
 # Disaster-Response-Pipeline project
 
-#table of content. 
+# table of content. 
 Description
 excuting the ML program
 excuting the app.
