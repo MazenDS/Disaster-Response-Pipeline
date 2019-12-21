@@ -1,7 +1,12 @@
 # Disaster-Response-Pipeline project
 
-# table of content. 
-1. Description
+
+# Description
+The project use data engineering skills to classifiy the disaster messages.The date used from figure eight which contained pre labelled messages from real time disasters. 
+The project has 3 component. 
+1. Data Processing, ETL Pipeline to extract data from source, clean data and save them in a proper databse structure
+2. Machine Learning Pipeline to train a model able to classify text message in categories
+3. Web App to show model results in real time
 
 
 
