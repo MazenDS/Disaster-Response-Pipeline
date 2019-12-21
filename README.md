@@ -1,10 +1,8 @@
 # Disaster-Response-Pipeline project
 
 # table of content. 
-#Description
-!excuting the ML program
-!excuting the app.
-!testing the result. 
+1. Description
+
 
 
 
