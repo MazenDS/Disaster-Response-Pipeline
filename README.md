@@ -25,7 +25,7 @@ https://github.com/MazenDS/Disaster-Response-Pipeline.git
    https://view6914b2f4-3001.udacity-student-workspaces.com
    
    # screenshot
-the to show how when the app recieve a message the works to classify the content. Then shows the distribution.
+the below screenshot on the web runs to classify the messages and retun the catogary. 
 
 ![Capture52](https://user-images.githubusercontent.com/55158582/71307738-c8c3d300-2403-11ea-8bc7-b5e42db597bc.PNG)
 ![Capture53](https://user-images.githubusercontent.com/55158582/71308070-abddce80-2408-11ea-9234-0b66acfc8afa.PNG)
