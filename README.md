@@ -14,11 +14,11 @@ https://github.com/MazenDS/Disaster-Response-Pipeline.git
 
 # run this program: 
  to run this ETL:
-  python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
+  1. python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
   to run the ML: 
-  python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
+  2. python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
   
-   Run the following command in the app's directory to run your web app:
+  3. Run the following command in the app's directory to run your web app:
    python run.py
    
    # link to the app.
