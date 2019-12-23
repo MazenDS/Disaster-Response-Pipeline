@@ -14,7 +14,7 @@ https://github.com/MazenDS/Disaster-Response-Pipeline.git
 
 # run this program: 
   1. to run this ETL :
-   python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db)
+   python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
   2. to run the ML:
    python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl)
   
